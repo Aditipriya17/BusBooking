@@ -35,30 +35,8 @@ Highly portable across different environments.
  Category
 Web Application, Microservices Architecture
 
----
-
-Formatted Commit Messages
-
-Guidelines
-Use a consistent format for your commit messages to improve readability and maintainability. The AngularJS commit message conventions are a great starting point.
-
- Format
-```
-type(scope): subject
 
 Description
-
-Action [Issue #]
-```
-
- Example Commit Message
-```bash
-git commit -m 'feat(booking): Added new booking feature
-
-Implemented the functionality to allow users to book bus tickets online. 
-Closed #42'
-```
-
 In this message:
 - Type: feat (indicating a new feature)
 - Scope: booking (indicating the part of the project affected)
@@ -72,5 +50,5 @@ When using the bash shell, you can create multi-line commit messages with the `-
 git commit -m 'feat(booking): Added new booking feature
 
 Implemented the functionality to allow users to book bus tickets online. 
-Closed #42'
-```
+
+
