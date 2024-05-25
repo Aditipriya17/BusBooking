@@ -25,8 +25,7 @@
 
 **Additional Sections**
 
- Stability
-Currently in Beta.
+
 
  **Platforms**
  
